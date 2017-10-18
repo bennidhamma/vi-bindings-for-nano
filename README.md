@@ -1,7 +1,7 @@
 # vi-bindings-for-nano
 Make nano usable
 
-Run these simple commands and you're nano will have vi-bindings in no time!
+Run these simple commands and your nano will have vi-bindings in no time!
 
 Step 1: 
 -------
