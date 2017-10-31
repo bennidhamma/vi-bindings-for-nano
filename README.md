@@ -8,6 +8,7 @@ Step 1:
 ```
 $ apt-get install vim
 $ echo 'alias nano=vim' >> ~/.bashrc
+$ . ~/.bashrc
 ```
 
 Step 2:
